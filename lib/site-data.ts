@@ -85,7 +85,7 @@ export const projects: Project[] = [
     liveUrl: '',
     sourceUrl: 'https://github.com/jerichooo1/TrafficAI',
     walkthroughUrl: 'https://drive.google.com/file/d/11Maxuc_RZT7Iwl_p9LhHKPbVrw-VfEW1/view?usp=sharing',
-    interfaceUrl: 'https://github.com/jerichooo1/TrafficAI/tree/main/interfaces',
+    interfaceUrl: 'https://github.com/jerichooo1/TrafficAI/blob/main/interfaces/TrafficAI.pdf',
   },
 ]
 
