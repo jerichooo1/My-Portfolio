@@ -83,7 +83,9 @@ export const projects: Project[] = [
     contribution: ['Worked on vehicle detection, classification, and counting.'],
     keyAreas: ['Computer vision', 'Vehicle detection', 'Classification', 'Counting'],
     liveUrl: '',
-    sourceUrl: '',
+    sourceUrl: 'https://github.com/jerichooo1/TrafficAI',
+    walkthroughUrl: 'https://drive.google.com/file/d/11Maxuc_RZT7Iwl_p9LhHKPbVrw-VfEW1/view?usp=sharing',
+    interfaceUrl: 'https://github.com/jerichooo1/TrafficAI/tree/main/interfaces',
   },
 ]
 
