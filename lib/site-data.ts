@@ -70,7 +70,9 @@ export const projects: Project[] = [
     contribution: ['Contributed to the development of the project as part of the academic team.'],
     keyAreas: ['Web application', 'Appointment scheduling', 'Augmented reality'],
     liveUrl: '',
-    sourceUrl: '',
+    sourceUrl: 'https://github.com/jerichooo1/BARBERQUE',
+    walkthroughUrl: 'https://youtu.be/4Uy-uTsU3pc',
+    interfaceUrl: 'https://github.com/jerichooo1/BARBERQUE/tree/main/Interfaces',
   },
   {
     name: 'TrafficAI',
