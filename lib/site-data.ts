@@ -10,8 +10,8 @@ export const site = {
   role: 'BS Information Technology Student',
   email: 'jericho1castillo@gmail.com',
   resumeUrl: '',
-  linkedinUrl: '',
-  githubUrl: '',
+  linkedinUrl: 'https://www.linkedin.com/in/jericho-antonio-castillo-552b08450',
+  githubUrl: 'https://github.com/jerichooo1',
 }
 
 export const navLinks = [
@@ -31,6 +31,8 @@ export type Project = {
   keyAreas: string[]
   liveUrl: string
   sourceUrl: string
+  walkthroughUrl?: string
+  interfaceUrl?: string
 }
 
 export const projects: Project[] = [
@@ -55,7 +57,9 @@ export const projects: Project[] = [
       'Mobile app communication',
     ],
     liveUrl: '',
-    sourceUrl: '',
+    sourceUrl: 'https://github.com/jerichooo1/FloodGuard',
+    walkthroughUrl: 'https://drive.google.com/file/d/1x1p8Uutf_DPeyS9BdGuWP6NwHH-Cy3aD/view?usp=sharing',
+    interfaceUrl: 'https://github.com/jerichooo1/FloodGuard/tree/main/interface',
   },
   {
     name: 'BarberQueue',
@@ -66,7 +70,9 @@ export const projects: Project[] = [
     contribution: ['Contributed to the development of the project as part of the academic team.'],
     keyAreas: ['Web application', 'Appointment scheduling', 'Augmented reality'],
     liveUrl: '',
-    sourceUrl: '',
+    sourceUrl: 'https://github.com/jerichooo1/BARBERQUE',
+    walkthroughUrl: 'https://youtu.be/4Uy-uTsU3pc',
+    interfaceUrl: 'https://github.com/jerichooo1/BARBERQUE/tree/main/Interfaces',
   },
   {
     name: 'TrafficAI',
@@ -77,7 +83,9 @@ export const projects: Project[] = [
     contribution: ['Worked on vehicle detection, classification, and counting.'],
     keyAreas: ['Computer vision', 'Vehicle detection', 'Classification', 'Counting'],
     liveUrl: '',
-    sourceUrl: '',
+    sourceUrl: 'https://github.com/jerichooo1/TrafficAI',
+    walkthroughUrl: 'https://drive.google.com/file/d/11Maxuc_RZT7Iwl_p9LhHKPbVrw-VfEW1/view?usp=sharing',
+    interfaceUrl: 'https://github.com/jerichooo1/TrafficAI/blob/main/interfaces/TrafficAI.pdf',
   },
 ]
 
