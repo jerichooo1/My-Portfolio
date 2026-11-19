@@ -10,8 +10,8 @@ export const site = {
   role: 'BS Information Technology Student',
   email: 'jericho1castillo@gmail.com',
   resumeUrl: '',
-  linkedinUrl: '',
-  githubUrl: '',
+  linkedinUrl: 'https://www.linkedin.com/in/jericho-antonio-castillo-552b08450',
+  githubUrl: 'https://github.com/jerichooo1',
 }
 
 export const navLinks = [
