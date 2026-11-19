@@ -28,6 +28,8 @@ function ProjectCard({ project, index }: { project: Project; index: number }) {
           <div className="mt-8 flex flex-wrap gap-3">
             <OptionalLink href={project.liveUrl} label="Live demo" placeholder="Live demo — link coming soon" />
             <OptionalLink href={project.sourceUrl} label="Source code" placeholder="Source code — link coming soon" />
+            {project.walkthroughUrl && <OptionalLink href={project.walkthroughUrl} label="Video walkthrough" />}
+            {project.interfaceUrl && <OptionalLink href={project.interfaceUrl} label="Interfaces & device photos" />}
           </div>
         </div>
 

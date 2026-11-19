@@ -31,6 +31,8 @@ export type Project = {
   keyAreas: string[]
   liveUrl: string
   sourceUrl: string
+  walkthroughUrl?: string
+  interfaceUrl?: string
 }
 
 export const projects: Project[] = [
@@ -55,7 +57,9 @@ export const projects: Project[] = [
       'Mobile app communication',
     ],
     liveUrl: '',
-    sourceUrl: '',
+    sourceUrl: 'https://github.com/jerichooo1/FloodGuard',
+    walkthroughUrl: 'https://drive.google.com/file/d/1x1p8Uutf_DPeyS9BdGuWP6NwHH-Cy3aD/view?usp=sharing',
+    interfaceUrl: 'https://github.com/jerichooo1/FloodGuard/tree/main/interface',
   },
   {
     name: 'BarberQueue',
