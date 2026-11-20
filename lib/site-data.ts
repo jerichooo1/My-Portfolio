@@ -9,7 +9,7 @@ export const site = {
   shortName: 'Jericho Castillo',
   role: 'BS Information Technology Student',
   email: 'jericho1castillo@gmail.com',
-  resumeUrl: '',
+  resumeUrl: 'https://github.com/jerichooo1/My-Portfolio/blob/main/public/JerichoCastillo_Resume.pdf',
   linkedinUrl: 'https://www.linkedin.com/in/jericho-antonio-castillo-552b08450',
   githubUrl: 'https://github.com/jerichooo1',
 }
