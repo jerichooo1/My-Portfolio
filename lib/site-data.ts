@@ -106,6 +106,11 @@ export const skillGroups = [
     title: 'IoT & Networking',
     skills: ['ESP32', 'Arduino', 'Sensor integration', 'Cisco Packet Tracer', 'Microsoft Azure'],
   },
+  {
+    title: 'Office & Productivity',
+    skills: ['Microsoft Word', 'Microsoft Excel', 'Microsoft PowerPoint', 'Microsoft Outlook', 'Microsoft Teams', 'Canva'],
+  },
+  
 ]
 
 export const education = {
