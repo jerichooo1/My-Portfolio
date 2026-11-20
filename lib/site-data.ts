@@ -110,6 +110,10 @@ export const skillGroups = [
     title: 'Office & Productivity',
     skills: ['Microsoft Word', 'Microsoft Excel', 'Microsoft PowerPoint', 'Microsoft Outlook', 'Microsoft Teams', 'Canva'],
   },
+  {
+    title: 'AI Tools',
+    skills: ['ChatGPT', 'Claude', 'Gemini', 'Copilot'],
+  },
   
 ]
 
