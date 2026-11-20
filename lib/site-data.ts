@@ -9,7 +9,7 @@ export const site = {
   shortName: 'Jericho Castillo',
   role: 'BS Information Technology Student',
   email: 'jericho1castillo@gmail.com',
-  resumeUrl: '',
+  resumeUrl: 'https://github.com/jerichooo1/My-Portfolio/blob/main/public/JerichoCastillo_Resume.pdf',
   linkedinUrl: 'https://www.linkedin.com/in/jericho-antonio-castillo-552b08450',
   githubUrl: 'https://github.com/jerichooo1',
 }
@@ -105,6 +105,14 @@ export const skillGroups = [
   {
     title: 'IoT & Networking',
     skills: ['ESP32', 'Arduino', 'Sensor integration', 'Cisco Packet Tracer', 'Microsoft Azure'],
+  },
+  {
+    title: 'Microsoft Office',
+    skills: ['Word', 'Excel', 'PowerPoint', 'Outlook'],
+  },
+  {
+    title: 'AI Tools',
+    skills: ['ChatGPT', 'Claude', 'Gemini', 'Copilot'],,
   },
 ]
 
