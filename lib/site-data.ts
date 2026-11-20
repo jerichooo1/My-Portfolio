@@ -67,7 +67,12 @@ export const projects: Project[] = [
       'A Web-Based Appointment System with Haircut Recommendation Using Augmented Reality for Fade Street Hair Studio',
     category: 'Web · Augmented Reality',
     goal: 'An academic web application that combines appointment scheduling with augmented-reality haircut recommendations for a local hair studio.',
-    contribution: ['Contributed to the development of the project as part of the academic team.'],
+    contribution: [
+  'Sole developer responsible for the complete design, development, and implementation of the web application.',
+  'Developed the full-stack appointment management system, including customer and admin functionalities.',
+  'Implemented the augmented reality haircut recommendation feature using MediaPipe FaceMesh.',
+  'Designed and integrated the database, user interfaces, booking workflows, and GCash downpayment functionality.',
+],
     keyAreas: ['Web application', 'Appointment scheduling', 'Augmented reality'],
     liveUrl: '',
     sourceUrl: 'https://github.com/jerichooo1/BARBERQUE',
