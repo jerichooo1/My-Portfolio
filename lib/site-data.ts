@@ -96,7 +96,7 @@ export const skillGroups = [
   },
   {
     title: 'Databases & Tools',
-    skills: ['MySQL', 'MariaDB', 'Git', 'GitHub', 'Visual Studio Code', 'XAMPP'],
+    skills: ['MySQL', 'MariaDB', 'Git', 'GitHub', 'Visual Studio Code', 'XAMPP', 'Microsoft Office'],
   },
   {
     title: 'AI & Computer Vision',
